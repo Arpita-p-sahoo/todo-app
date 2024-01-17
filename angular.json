@@ -25,6 +25,7 @@
               "src/assets"
             ],
             "styles": [
+              "../todo-app/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -94,5 +95,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6debc9c2-d707-4667-8bf3-5c8b69af829f"
   }
 }
